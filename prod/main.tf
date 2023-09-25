@@ -13,7 +13,7 @@ provider "aws" {
     default_tags{
         tags = {
             Owner = "Gustavo Campos de Oliveira"
-            Env = "Producao"
+            Env = "Producao12"
                   }
     }
   # Configuration options
